@@ -1,0 +1,2 @@
+pysc2==1.2
+absl-py
