@@ -8,7 +8,7 @@
 
 Download and install from the [official website](https://starcraft2.com/) (Starcraft II is free to play by now).
 
-Open [DemoReplayFile.SC2Replay](DemoReplay_3-16-1.SC2Replay) (directly with the Starcraft II client) to ensure that Starcraft II has downloaded the required version.
+Open [DemoReplay_3-16-1.SC2Replay](DemoReplay_3-16-1.SC2Replay) (directly with the Starcraft II client) to ensure that Starcraft II has downloaded the required version.
 
 #### Linux
 
