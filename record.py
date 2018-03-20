@@ -60,6 +60,9 @@ def record(
             map_data=map_inst.data(run_config)
         )
     )
+    interface = sc_pb.InterfaceOptions()
+    interface.raw = False
+    interface.score = True
     create.player_setup.add(
         type=sc_pb.Participant
     )
@@ -70,7 +73,7 @@ def record(
     )
     join = sc_pb.RequestJoinGame(
         race=sc2_env.races[user_race],
-        options=sc_pb.InterfaceOptions()
+        options=interface
     )
 
     with run_config.start(
