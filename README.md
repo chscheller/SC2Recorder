@@ -6,7 +6,7 @@
 
 #### Windows & Mac
 
-1. Download and install from the [official website](https://starcraft2.com/) (Starcraft II is free to play by now).
+1. Download and install the game from the [official website](https://starcraft2.com/) (Starcraft II is free to play by now).
 
 2. Download the [mini games](https://github.com/deepmind/pysc2/releases/download/v1.2/mini_games.zip) and extract them to your `StarcraftII/Maps/` directory.
 
